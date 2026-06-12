@@ -1,0 +1,11 @@
+### Prueba 1: Insertar el nuevo nodo (POST)
+POST http://localhost:5007/api/nodos
+Content-Type: application/json
+
+{
+  "id": 15,
+  "valor": "Nuevo Nodo Derecho"
+}
+
+### Prueba 2: Verificar que se guardó (GET)
+GET http://localhost:5007/api/nodos
