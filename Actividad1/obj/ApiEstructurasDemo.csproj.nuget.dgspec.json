@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj": {}
+    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj": {
+    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "projectName": "ApiEstructurasDemo",
-        "projectPath": "c:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj",
+        "projectPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
