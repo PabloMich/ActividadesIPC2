@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj": {}
+    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad2\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj": {
+    "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad2\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj",
-        "projectName": "ApiEstructurasDemo",
-        "projectPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\ApiEstructurasDemo.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad2\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+        "projectName": "ApiAvlSimulacion",
+        "projectPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad2\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad1\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Desktop\\ApiEstructurasDemo\\Actividad2\\ApiAvlSimulacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

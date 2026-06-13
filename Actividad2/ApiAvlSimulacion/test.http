@@ -1,0 +1,14 @@
+### GET - Ver árbol inicial desbalanceado
+GET http://localhost:5028/api/arbol
+
+### POST - Insertar nodo 20 (dispara Rotación RID)
+POST http://localhost:5028/api/arbol/insertar
+Content-Type: application/json
+
+{
+  "id": 20,
+  "etiqueta": "Nieto Derecho"
+}
+
+### GET - Ver árbol después de la rotación
+GET http://localhost:5028/api/arbol
