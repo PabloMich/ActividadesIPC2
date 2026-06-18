@@ -1,0 +1,35 @@
+@model IEnumerable<ControlAcademicoMvc.Models.Estudiante>
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Listado de Estudiantes</title>
+</head>
+
+<body>
+    <h2>Listado de Estudiantes</h2>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Carné</th>
+                <th>Nombre</th>
+                <th>Promedio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var estudiante in Model)
+            {
+                <tr>
+                    <td>@estudiante.Carne</td>
+                    <td>@estudiante.Nombre</td>
+                    <td>@estudiante.Promedio</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+
+</html>
